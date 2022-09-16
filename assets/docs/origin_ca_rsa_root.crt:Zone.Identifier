@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://developers.cloudflare.com/ssl/origin-configuration/origin-ca/
+HostUrl=https://developers.cloudflare.com/ssl/static/origin_ca_rsa_root.pem
